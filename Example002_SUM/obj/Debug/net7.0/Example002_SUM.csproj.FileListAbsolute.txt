@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\bin\Debug\net7.0\Example002_SUM.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\bin\Debug\net7.0\Example002_SUM.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\bin\Debug\net7.0\Example002_SUM.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\bin\Debug\net7.0\Example002_SUM.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\bin\Debug\net7.0\Example002_SUM.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\refint\Example002_SUM.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\Example002_SUM.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Example002_SUM\obj\Debug\net7.0\ref\Example002_SUM.dll
