@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\bin\Debug\net7.0\2ndexercise.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\bin\Debug\net7.0\2ndexercise.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\bin\Debug\net7.0\2ndexercise.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\bin\Debug\net7.0\2ndexercise.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\bin\Debug\net7.0\2ndexercise.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\refint\2ndexercise.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\2ndexercise.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\Homeworks\1sthomework\2ndexercise\obj\Debug\net7.0\ref\2ndexercise.dll
